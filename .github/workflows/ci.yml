@@ -17,7 +17,7 @@ jobs:
       - name: Create idoc config.
         run: |
           cat > idoc.yml << EOF
-          site: "Rehype Rewrite"
+          site: "TextSound Saver"
           menus:
             Home: index.html
             DevHub: https://jaywcjlove.github.io/DevHub/
