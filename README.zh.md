@@ -5,7 +5,7 @@
 	<h1>TextSound Saver</h1>
 </div>
 
-Using the TextSoundSaver application, you can convert text into realistic synthesized speech. The app achieves smooth and natural text-to-speech conversion. In addition to providing excellent voice synthesis capabilities, the application also allows you to easily export fine-tuned audio files. This enables you to create high-quality audio files and download the output for various purposes.
+使用 TextSound 应用程序，您可以将文本转换为逼真的合成语音。该应用实现了流畅且自然的文本到语音转换。除了提供出色的语音合成功能外，该应用还允许您轻松导出调好的音频文件。这使您能够创建高质量的音频文件，并下载输出以供其他用途。
 
 ![TextSoundSaver Screenshots 1](https://github.com/jaywcjlove/TextSoundSaver/assets/1680273/109222a2-fffd-439f-b4d7-82db960909db)
 
@@ -13,4 +13,4 @@ Using the TextSoundSaver application, you can convert text into realistic synthe
 
 ## Related
 
-[More Apps by Me](https://wangchujiang.com/#/app)
+[我的更多 app](https://wangchujiang.com/#/app)
