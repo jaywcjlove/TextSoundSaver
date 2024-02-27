@@ -11,6 +11,6 @@ Using the TextSoundSaver application, you can convert text into realistic synthe
 
 ![TextSoundSaver Screenshots 2](https://github.com/jaywcjlove/TextSoundSaver/assets/1680273/b4a005d5-28ca-44e1-ae83-5803640f4ddc)
 
-## Related
+■ **Related**
 
 [More Apps by Me](https://wangchujiang.com/#/app)
