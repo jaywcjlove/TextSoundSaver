@@ -18,7 +18,3 @@
 ![TextSoundSaver Screenshots 1](https://github.com/jaywcjlove/TextSoundSaver/assets/1680273/109222a2-fffd-439f-b4d7-82db960909db)
 
 ![TextSoundSaver Screenshots 2](https://github.com/jaywcjlove/TextSoundSaver/assets/1680273/b4a005d5-28ca-44e1-ae83-5803640f4ddc)
-
-## Related
-
-[我的更多 app](https://wangchujiang.com/#/app)
