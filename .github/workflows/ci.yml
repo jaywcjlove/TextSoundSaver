@@ -25,7 +25,6 @@ jobs:
           tocs: false
           menus:
             Home: index.html
-            DevHub: https://jaywcjlove.github.io/DevHub/
           sideEffectFiles:
             - README.zh.md
           EOF
