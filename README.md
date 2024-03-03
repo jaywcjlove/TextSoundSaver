@@ -17,4 +17,6 @@ The app achieves smooth and natural text-to-speech conversion. In addition to pr
 
 ![TextSoundSaver Screenshots 1](https://github.com/jaywcjlove/TextSoundSaver/assets/1680273/109222a2-fffd-439f-b4d7-82db960909db)
 
+For a complete list of supported languages, see [Languages Supported by VoiceOver](https://support.apple.com/en-us/111748).
+
 ![TextSoundSaver Screenshots 2](https://github.com/jaywcjlove/TextSoundSaver/assets/1680273/b4a005d5-28ca-44e1-ae83-5803640f4ddc)

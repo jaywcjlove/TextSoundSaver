@@ -17,4 +17,6 @@
 
 ![TextSoundSaver Screenshots 1](https://github.com/jaywcjlove/TextSoundSaver/assets/1680273/109222a2-fffd-439f-b4d7-82db960909db)
 
+有关支持语言的完整列表，请参见 [VoiceOver 支持的语言](https://support.apple.com/en-us/111748)
+
 ![TextSoundSaver Screenshots 2](https://github.com/jaywcjlove/TextSoundSaver/assets/1680273/b4a005d5-28ca-44e1-ae83-5803640f4ddc)
