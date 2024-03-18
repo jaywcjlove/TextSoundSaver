@@ -19,7 +19,7 @@ jobs:
           cat > idoc.yml << EOF
           site: "TextSound Saver"
           keywords: TextToSpeech,Speech,TextSoundSaver,TextSound,Sound
-          favicon: assets/favicon.ico
+          favicon: assets/logo.png
           logo: ./assets/logo.png
           openSource: https://github.com/jaywcjlove/TextSoundSaver
           tocs: false
