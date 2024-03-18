@@ -1,15 +1,21 @@
 <div align="center">
-	<br />
-	<br />
-	<img src="https://github.com/jaywcjlove/TextSoundSaver/assets/1680273/4d5d512e-40d2-4cb6-9605-404ead05d8a9" width="160" height="160">
-	<h1>TextSound Saver</h1>
+  <br />
+  <br />
+  <img src="https://github.com/jaywcjlove/TextSoundSaver/assets/1680273/4d5d512e-40d2-4cb6-9605-404ead05d8a9" width="160" height="160">
+  <h1>TextSound Saver</h1>
+  <!--rehype:style=border: 0;-->
+  <p>
+    <a href="./README.zh.md">中文</a> • 
+    <a href="https://wangchujiang.com/#/contact">Contact & Support</a>
+    <!--rehype:target=_blank-->
+  </p>
 </div>
 
 Using the TextSoundSaver application, you can convert text into realistic synthesized speech.
 
 <p>
   <a target="_blank" href="https://apps.apple.com/app/textsound-saver/id6478511402" title="DevHub AppStore">
-    <img alt="DevHub AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
+    <img alt="TextSound Saver AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
   </a>
 </p>
 

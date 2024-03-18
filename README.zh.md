@@ -1,8 +1,14 @@
 <div align="center">
-	<br />
-	<br />
-	<img src="https://github.com/jaywcjlove/TextSoundSaver/assets/1680273/4d5d512e-40d2-4cb6-9605-404ead05d8a9" width="160" height="160">
-	<h1>TextSound Saver</h1>
+  <br />
+  <br />
+  <img src="https://github.com/jaywcjlove/TextSoundSaver/assets/1680273/4d5d512e-40d2-4cb6-9605-404ead05d8a9" width="160" height="160">
+  <h1>TextSound Saver</h1>
+  <!--rehype:style=border: 0;-->
+  <p>
+		<a href="./README.md">English</a> • 
+		<a href="https://wangchujiang.com/#/contact">联系&支持</a>
+    <!--rehype:target=_blank-->
+  </p>
 </div>
 
 使用 TextSound 应用程序，您可以将文本转换为逼真的合成语音。
