@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <br />
-  <img src="https://github.com/jaywcjlove/TextSoundSaver/assets/1680273/4d5d512e-40d2-4cb6-9605-404ead05d8a9" width="160" height="160">
+  <img src="./assets/logo.png" width="160" height="160">
   <h1>TextSound Saver</h1>
   <!--rehype:style=border: 0;-->
   <p>
