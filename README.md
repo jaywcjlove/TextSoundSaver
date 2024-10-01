@@ -11,9 +11,9 @@
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/textsound-saver/id6478511402" title="TextSound Saver for macOS">
-      <img alt="TextSound Saver for macOS" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
+      <img alt="TextSound Saver for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
-    <a href="https://apps.apple.com/app/textsound-saver/id6478511402?platform=iphone" title="TextSound Saver for iOS"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="TextSound Saver for iOS" height="51"></a>
+    <a href="https://apps.apple.com/app/textsound-saver/id6478511402?platform=iphone" title="TextSound Saver for iOS"><img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="TextSound Saver for iOS" height="51"></a>
   </p>
 </div>
 
