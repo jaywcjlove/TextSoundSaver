@@ -9,7 +9,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        <img align="right" height="100" alt="TextSound Saver" src="https://github.com/user-attachments/assets/d4cdfb72-8e0f-4a80-ad90-1829ff069d40" /> 请尽可能详细地提供您的支持请求或反馈。
+        <img align="right" height="100" alt="TextSound Saver" src="https://github.com/user-attachments/assets/59392c7b-5d42-4bcd-8040-2d396eba4765" /> 请尽可能详细地提供您的支持请求或反馈。
 
         使用 TextSound 应用程序，您可以将文本转换为逼真的合成语音。应用实现了流畅且自然的文本到语音转换。除了提供出色的语音合成功能外，该应用还允许您轻松导出调好的音频文件。这使您能够创建高质量的音频文件，并下载输出以供其他用途。
 
@@ -34,7 +34,7 @@ body:
   - type: dropdown
     id: os_version
     attributes:
-      label: "💻 桌面"
+      label: "💻 桌面/📱 iPhone"
       description: 您的操作系统和版本。
       options:
         - macOS 15.0 (Sequoia)
