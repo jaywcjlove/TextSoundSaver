@@ -6,6 +6,7 @@
   <!--rehype:style=border: 0;-->
   <p>
 		<a href="./README.md">English</a> • 
+    <a target="_blank" href="https://github.com/jaywcjlove/TextSoundSaver/issues/new?template=bug_report_cn.yml">联系&支持</a> • 
 		<a href="https://wangchujiang.com/#/contact" target="_blank">联系&支持</a>
     <!--rehype:target=_blank-->
   </p>
