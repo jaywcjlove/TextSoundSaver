@@ -8,6 +8,18 @@ Changelog
     <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="TextSound Saver for iOS" height="51">
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/TextSoundSaver/releases/tag/v2.2.0)
+
+- chore: Update app icon
+- feat: Add export error message alert
+- fix: Fix crash issue on the about page
+
+---
+
+- chore: 更新应用图标
+- feat: 添加导出错误信息弹窗
+- fix: 修复关于页面崩溃问题
+
 ## [v2.1.0](https://github.com/jaywcjlove/TextSoundSaver/releases/tag/v2.1.0)
 
 - Fix: Fix some link errors.
