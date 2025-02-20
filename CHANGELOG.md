@@ -13,6 +13,11 @@ Changelog
 - Fix: Fix some link errors.
 - Style: Modify the settings page style.
 
+---
+
+- 修复： 修复一些链接错误。  
+- 样式： 修改设置界面样式。  
+
 ## v2.0
 
 1. refactor application
