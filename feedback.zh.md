@@ -18,6 +18,6 @@
 
 - [**邮件支持**: kennyiseeyou@gmail.com](mailto:kennyiseeyou@gmail.com)  
 - [**社交媒体**: Twitter/x @jaywcjlove](https://twitter.com/jaywcjlove)  
-- [**GitHub 问题反馈**](https://github.com/jaywcjlove/iconed/issues/new/choose)  
+- [**GitHub 问题反馈**](https://github.com/jaywcjlove/TextSoundSaver/issues/new/choose)  
 
 我们将尽快回复你的信息，确保你拥有顺畅、愉快的使用体验。感谢你对 TextSound 的支持！

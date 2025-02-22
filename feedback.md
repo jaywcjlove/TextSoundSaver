@@ -18,6 +18,6 @@ If you need support or encounter issues during use, you can contact us through t
 
 - [**Email Support**: kennyiseeyou@gmail.com](mailto:kennyiseeyou@gmail.com)  
 - [**Social Media**: Twitter/x @jaywcjlove](https://twitter.com/jaywcjlove)  
-- [**GitHub Issue**](https://github.com/jaywcjlove/iconed/issues/new/choose)  
+- [**GitHub Issue**](https://github.com/jaywcjlove/TextSoundSaver/issues/new/choose)  
 
 We will reply to your message as soon as possible to ensure you have a smooth and pleasant experience. Thank you for supporting TextSound!
