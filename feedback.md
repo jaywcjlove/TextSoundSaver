@@ -6,7 +6,7 @@
 Feedback & Support
 ===
 
-Thank you for using TextSound! This application converts text to natural, realistic synthesized speech, providing a smooth text-to-speech experience. In addition to speech synthesis, TextSound also allows you to easily export the fine-tuned audio files, enabling you to create high-quality audio and use it for other purposes.
+Thank you for using TextSound Saver! This application converts text to natural, realistic synthesized speech, providing a smooth text-to-speech experience. In addition to speech synthesis, TextSound Saver also allows you to easily export the fine-tuned audio files, enabling you to create high-quality audio and use it for other purposes.
 
 We highly value your feedback! If you encounter any issues, have any questions, or want to suggest new features, please feel free to contact us. Your feedback will help us continuously improve and ensure the best user experience.
 
@@ -20,4 +20,4 @@ If you need support or encounter issues during use, you can contact us through t
 - [**Social Media**: Twitter/x @jaywcjlove](https://twitter.com/jaywcjlove)  
 - [**GitHub Issue**](https://github.com/jaywcjlove/TextSoundSaver/issues/new/choose)  
 
-We will reply to your message as soon as possible to ensure you have a smooth and pleasant experience. Thank you for supporting TextSound!
+We will reply to your message as soon as possible to ensure you have a smooth and pleasant experience. Thank you for supporting TextSound Saver!
