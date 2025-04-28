@@ -18,12 +18,12 @@
   </p>
 </div>
 
-Using the TextSoundSaver application, you can convert text into realistic synthesized speech. The app achieves smooth and natural text-to-speech conversion. In addition to providing excellent voice synthesis capabilities, the application also allows you to easily export fine-tuned audio files. This enables you to create high-quality audio files and download the output for various purposes.
-
 ![TextSoundSaver Screenshots 1](./assets/screenshots-1-all.png)
-
-For a complete list of supported languages, see [Languages Supported by VoiceOver](https://support.apple.com/en-us/111748).
 
 ![TextSoundSaver Screenshots 2](./assets/screenshots-2.png)
 
 ![TextSoundSaver Screenshots 1](./assets/screenshots-1.png)
+
+Using the TextSoundSaver application, you can convert text into realistic synthesized speech. The app achieves smooth and natural text-to-speech conversion. In addition to providing excellent voice synthesis capabilities, the application also allows you to easily export fine-tuned audio files. This enables you to create high-quality audio files and download the output for various purposes.
+
+For a complete list of supported languages, see [Languages Supported by VoiceOver](https://support.apple.com/en-us/111748).
