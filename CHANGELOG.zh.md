@@ -1,4 +1,9 @@
-Changelog
+<p align="right">
+  <a href="./CHANGELOG.md">English</a>
+</p>
+<!--rehype:style=float: right; bottom: -36px; position: relative;-->
+
+更新日志
 ===
 
 <a target="_blank" href="https://apps.apple.com/app/textsound-saver/id6478511402" title="TextSound Saver for macOS">
@@ -8,21 +13,22 @@ Changelog
     <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="TextSound Saver for iOS" height="51">
 </a>
 
+
 ## [v3.0.0](https://github.com/jaywcjlove/TextSoundSaver/releases/tag/v3.0.0)
 
-1. feat: add support for macOS/iOS 26.
-2. fix: fix warning during text preview playback.
+1. 新增：支持 macOS/iOS 26。
+2. 修复：修复文本预览播放时的警告。
 
 ## [v2.2.0](https://github.com/jaywcjlove/TextSoundSaver/releases/tag/v2.2.0)
 
-- chore: Update app icon
-- feat: Add export error message alert
-- fix: Fix crash issue on the about page
+- chore: 更新应用图标
+- feat: 添加导出错误信息弹窗
+- fix: 修复关于页面崩溃问题
 
 ## [v2.1.0](https://github.com/jaywcjlove/TextSoundSaver/releases/tag/v2.1.0)
 
-- Fix: Fix some link errors.
-- Style: Modify the settings page style.
+- 修复： 修复一些链接错误。  
+- 样式： 修改设置界面样式。  
 
 ## v2.0
 
