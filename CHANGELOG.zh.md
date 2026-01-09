@@ -13,6 +13,10 @@
     <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="TextSound Saver for iOS" height="51">
 </a>
 
+## [v3.1.0](https://github.com/jaywcjlove/TextSoundSaver/releases/tag/v3.1.0)
+
+1. fix: 修复详情视图内容被导航栏遮挡的问题。  
+2. fix: 修复导入文本出错的问题。
 
 ## [v3.0.0](https://github.com/jaywcjlove/TextSoundSaver/releases/tag/v3.0.0)
 

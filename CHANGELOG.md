@@ -8,6 +8,11 @@ Changelog
     <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="TextSound Saver for iOS" height="51">
 </a>
 
+## [v3.1.0](https://github.com/jaywcjlove/TextSoundSaver/releases/tag/v3.1.0)
+
+1. fix: Fix detail view content hidden by navigation bar. 
+2. fix: Fix text import error.
+
 ## [v3.0.0](https://github.com/jaywcjlove/TextSoundSaver/releases/tag/v3.0.0)
 
 1. feat: add support for macOS/iOS 26.
