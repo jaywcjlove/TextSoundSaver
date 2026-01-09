@@ -16,7 +16,7 @@
     <!--rehype:target=_blank-->
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/textsound-saver/id6478511402" title="TextSound Saver for macOS">
+    <a target="_blank" href="https://apps.apple.com/app/textsound-saver/id6478511402?platform=mac" title="TextSound Saver for macOS">
       <img alt="TextSound Saver for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
     <a href="https://apps.apple.com/app/textsound-saver/id6478511402?platform=iphone" title="TextSound Saver for iOS">
