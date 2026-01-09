@@ -13,6 +13,14 @@
     <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="TextSound Saver for iOS" height="51">
 </a>
 
+## [v3.2.0](https://github.com/jaywcjlove/TextSoundSaver/releases/tag/v3.2.0)
+
+1. feat: 增强语音选择和语音控制显示功能
+2. style: 优化添加文本按钮
+3. style: 移除隐藏侧边栏按钮
+4. style: 优化导航栏标题样式
+5. fix: 修复国际化显示错误
+
 ## [v3.1.0](https://github.com/jaywcjlove/TextSoundSaver/releases/tag/v3.1.0)
 
 1. fix: 修复详情视图内容被导航栏遮挡的问题。  

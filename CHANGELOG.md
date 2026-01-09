@@ -8,6 +8,14 @@ Changelog
     <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="TextSound Saver for iOS" height="51">
 </a>
 
+## [v3.2.0](https://github.com/jaywcjlove/TextSoundSaver/releases/tag/v3.2.0)
+
+1. feat: enhance voice selection and speech control display.
+2. style: improve add text button.
+3. style: remove hide sidebar button.
+4. style: improve navigation bar title style.
+5. fix: Fix internationalization display error.
+
 ## [v3.1.0](https://github.com/jaywcjlove/TextSoundSaver/releases/tag/v3.1.0)
 
 1. fix: Fix detail view content hidden by navigation bar. 
